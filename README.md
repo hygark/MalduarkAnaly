@@ -2,9 +2,9 @@
 
 **Author:** Hygark
 
-## MalduarkAnaly.py - Ferramenta de Análise de Malware em Ambiente Isolado
-## Copyright (c) 2025 Hygark
-## Licenciado sob a MIT License. Veja o arquivo LICENSE para detalhes.
+ MalduarkAnaly.py - Ferramenta de Análise de Malware em Ambiente Isolado
+ Copyright (c) 2025 Hygark
+ Licenciado sob a MIT License. Veja o arquivo LICENSE para detalhes.
 
 ---
 
