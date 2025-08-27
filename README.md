@@ -4,7 +4,6 @@
 
 MalduarkAnaly.py - Malware Analysis Tool in Isolated Environment  
 Copyright (c) 2025 Hygark  
-Licensed under the MIT License. See the LICENSE file for details.  
 
 
 ---
@@ -149,20 +148,3 @@ Settings = {
   Using it on unauthorized systems or with real malware outside a controlled environment may violate laws such as LGPD (Brazil) or GDPR internationally.
 * **Responsibility:** The author (Hygark) is not responsible for any misuse of the tool. Run only in isolated virtual machines and obtain permissions before performing analyses.
 
----
-
-## Contributions
-
-Contributions are welcome! Submit pull requests or open issues on the GitHub repository.
-
----
-
-## License
-
-MIT License. See the LICENSE file for more details.
-
----
-
-## Contact
-
-For questions or suggestions, contact Hygark via GitHub.
